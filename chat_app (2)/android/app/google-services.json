@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "164064465109",
+    "project_id": "chattative",
+    "storage_bucket": "chattative.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164064465109:android:9ee22af4640b86f047125c",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz7-PyZ3t62JMqyzeu7dKoCKJS-RSpL_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
